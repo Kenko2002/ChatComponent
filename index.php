@@ -1,6 +1,6 @@
 <head>
     <?php include('configdb.php'); ?>
-    <title>Exemplo</title>
+    <title>Chat do Renzo</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="chat_page.js"></script>
